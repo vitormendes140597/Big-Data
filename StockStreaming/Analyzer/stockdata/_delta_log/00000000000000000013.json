@@ -1,0 +1,2 @@
+{"commitInfo":{"timestamp":1569116840048,"operation":"MERGE","operationParameters":{"predicate":"(orig.`symbol` = updates.`symbol`)"},"readVersion":12,"isBlindAppend":false}}
+{"add":{"path":"part-00000-7543c482-588c-4b94-ac9f-1404892996e5-c000.snappy.parquet","partitionValues":{},"size":1858,"modificationTime":1569116839000,"dataChange":true}}
