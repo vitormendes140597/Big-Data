@@ -2,7 +2,7 @@
 
 ## Respostas
 
-Todas as perguntas foram respondidas dentro do notebook Jupyter. É possível verificar as respostas através do arquivo .html salvo com os resultados.
+Todas as perguntas práticas foram respondidas dentro do notebook Jupyter. É possível verificar as respostas através do arquivo .html salvo com os resultados.
 
 ## Ambiente de Configuração
 
