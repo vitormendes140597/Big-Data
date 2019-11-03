@@ -1,0 +1,3 @@
+{"commitInfo":{"timestamp":1569187357052,"operation":"UPDATE","operationParameters":{"predicate":"(symbol#2825 = AAPL)"},"readVersion":0,"isBlindAppend":false}}
+{"remove":{"path":"part-00016-835252c0-e94d-413b-99a3-7c9a896220c8-c000.snappy.parquet","deletionTimestamp":1569187356936,"dataChange":true}}
+{"add":{"path":"part-00000-a6b61d66-96e9-49c5-bce3-7e8df8a8eac8-c000.snappy.parquet","partitionValues":{},"size":5155,"modificationTime":1569187357000,"dataChange":true}}

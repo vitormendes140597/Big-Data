@@ -1,0 +1,3 @@
+{"commitInfo":{"timestamp":1569361728076,"operation":"DELETE","operationParameters":{"predicate":"[\"(`symbol` = 'NVDA')\"]"},"readVersion":1,"isBlindAppend":false}}
+{"remove":{"path":"part-00191-f7984dfd-72aa-465c-80da-10cfe3821457-c000.snappy.parquet","deletionTimestamp":1569361728074,"dataChange":true}}
+{"add":{"path":"part-00000-81c414bd-1a78-4ff6-918e-7dafd13a5932-c000.snappy.parquet","partitionValues":{},"size":1858,"modificationTime":1569361728000,"dataChange":true}}
