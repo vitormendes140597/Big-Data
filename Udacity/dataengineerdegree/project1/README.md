@@ -1,6 +1,4 @@
-# # Project 1: Song Play Analysis Postgres
-
-![PostgresSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png =200x170)
+# # Project 1: Song Plays Data Modeling with Postgres
 
 Welcome to my project. This document aims to give an overall around all project files as well how project was developed and how it works.
 
@@ -25,7 +23,7 @@ In this project, you'll apply what you've learned on data modeling with Postgres
 ## Data Modeling
 In fact, to satisfies Sparkify data need it was used a relational data modeling called **Star Schema**, which we can define Fact and Dimension Tables. The following diagram shows how data was modeled.
 
-*diagram  here*
+![schema](./assets/StarSchema_Modeling_ER.PNG)
 
 *Bold fields means Primary Key*
 
